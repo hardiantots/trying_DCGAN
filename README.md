@@ -1,7 +1,7 @@
 Analisis Generasi Karakter Anime Menggunakan DCGANs
 
 -Teknologi yang Digunakan
-Proyek ini memanfaatkan Deep Convolutional Generative Adversarial Networks (DCGANs), sebuah pengembangan dari Generative Adversarial Networks (GANs), untuk otomatis menghasilkan gambar karakter anime. GANs pertama kali diperkenalkan pada tahun 2014 dan telah berkembang menjadi teknik utama dalam pembuatan data generatif, khususnya gambar. DCGAN memanfaatkan keunggulan Convolutional Neural Networks (CNNs), yang populer di bidang visi komputer, untuk meningkatkan kualitas gambar yang dihasilkan dengan cara mengenali dan memproses fitur visual serta informasi spasial dengan lebih efektif.
+Proyek ini memanfaatkan Deep Convolutional Generative Adversarial Networks (DCGANs), sebuah pengembangan dari Generative Adversarial Networks (GANs), untuk otomatis menghasilkan gambar karakter anime. GANs        pertama kali diperkenalkan pada tahun 2014 dan telah berkembang menjadi teknik utama dalam pembuatan data generatif, khususnya gambar. DCGAN memanfaatkan keunggulan Convolutional Neural Networks (CNNs), yang      populer di bidang visi komputer, untuk meningkatkan kualitas gambar yang dihasilkan dengan cara mengenali dan memproses fitur visual serta informasi spasial dengan lebih efektif.
 
 -Library dan Alat yang Digunakan
   1. Keras dan TensorFlow
